@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33508100/README.md)# Printer Purge Mailer
+## Automatic email printer purge
 
 Script de Google Apps Script que envía **cada semana** por correo una hoja de purga
 (cian, magenta, amarillo y negro) a tu impresora para que la imprima sola y así
